@@ -1,0 +1,2 @@
+# Image Classifier Program
+First machine learning project that heavily relies on the p5.js graphic library and the ml5.js machine learning library. This project also uses the MobileNet model to classify images.

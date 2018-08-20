@@ -1,0 +1,20 @@
+{
+  "name": "first-machine-learning-project",
+  "version": "1.0.0",
+  "description": "First machine learning project using ml5 and p5 library",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "machine",
+    "learning",
+    "p5.js",
+    "ml5.js"
+  ],
+  "author": "Matthew Henschke",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
